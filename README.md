@@ -12,3 +12,6 @@ Tasks performed in this notebook:
     * SVM
     * Random Forest Classifier
 * Imbalanced Classes
+
+
+Dataset available at https://www.kaggle.com/mlg-ulb/creditcardfraud
